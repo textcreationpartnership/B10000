@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sefautian's farewel: or, Fair Silvia's matchless cruelty. To an excellent new tune: or, Sefautian's farewel.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10000</idno><idno type="EEBO-CITATION">69648916</idno>
+  <idno type="VID">185072</idno>
+  <idno type="EEBO-PROQUEST">2240867452</idno>
+  
+            <idno type="STC">Wing S2412A</idno>
+            <idno type="STC">ESTC R183683</idno>
+            <idno type="OCLC">69648916</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B10000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185072)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2885:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sefautian's farewel: or, Fair Silvia's matchless cruelty. To an excellent new tune: or, Sefautian's farewel.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon, at the Angel in Guiltspur-Street, without Newgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>At end of text: "this may be printed, R. P."</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadside --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:185072:1"/>
+            <head>SEFAUTIAN's Farewel: OR, <hi>Fair</hi> SILVIA'S <hi>Matchless Cruelty▪</hi>
+            </head>
+            <opener>To an Excellent New Tune: Or, <hi>Sefautian's Farewel.</hi>
+            </opener>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+            </p>
+            <lg n="1">
+               <head>I.</head>
+               <l>HOpe Farewel▪ adieu to all Pleasure,</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Torment so great, as Love with Dispair;</l>
+               <l>
+                  <hi>S<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>ia</hi> Frowns, my endeavour's to please her,</l>
+               <l>and Laughs at those pains she makes me to bear:</l>
+               <l>Life's my Disease, and th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re is no Cure</l>
+               <l>but Death's cruel Dart▪ that must set me at ease;</l>
+               <l>When I'm no more, then may she g<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve</l>
+               <l>for him, who while living she never would relieve.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>In the World so Charming a Creature,</l>
+               <l>I<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my Farc<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>lls me I never beheld;</l>
+               <l>Splendid Be<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>y is Grace in each Feature,</l>
+               <l>that with Love-Raptures I strangely am fill'd:</l>
+               <l>Here I lye slain, with Darts of disdain,</l>
+               <l>While <hi>Silvia</hi>'s hard heart will not pitty my pain;</l>
+               <l>But let her know for this her Hate,</l>
+               <l>She may much Repent it when as it is too late.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Can you be so desperate Cruel,</l>
+               <l>as for your sake to let Death be my Doom?</l>
+               <l>Love is like the Unquenchable Fuel,</l>
+               <l>in which all my Glory and Life will consume:</l>
+               <l>Still you dispise my sorrowful Crys,</l>
+               <l>And over your Lover doth still Tyrannize▪</l>
+               <l>But when kind Death shall set me free,</l>
+               <l>You may be Rewarded for this your Cruelty.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>When the World shall read this sad Story,</l>
+               <l>which here I Write with a trembling Quill;</l>
+               <l>Shewing how you have blasted my Glory,</l>
+               <l>Oh! will they not count you a Tyrant still:</l>
+               <l>Then let me find, my <hi>Silvia</hi> more kind,</l>
+               <l>To comfort and cherish my troubled mi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</l>
+               <l>For if I go, to the Shades below,</l>
+               <l>'Tis you are the cause of my final overthrow.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>O my Grief is never lamented</l>
+               <l>by she whom I do so dearly adore;</l>
+               <l>With her Frowns I am dayly Tormented,</l>
+               <l>no Creature for Love sure, did e're suffer more:</l>
+               <l>CUPID's keen Dart, has wounded my heart,</l>
+               <l>I never, no never, did feel greater smart;</l>
+               <l>Here a poor Slave o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Smile doe<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> crave,</l>
+               <l>Or else you will send him soon to the silent Grav<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>In your Charms I dearly delighted,</l>
+               <l>and ever thought you my H<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aven to be;</l>
+               <l>Yet by you I was evermore slighted▪</l>
+               <l>and now you make a poor Martyr of me:</l>
+               <l>Won't you therefore, your Captive restore,</l>
+               <l>Who sues for your Love, and desires no more▪</l>
+               <l>You may be sure, pai<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s I endure▪</l>
+               <l>And 'tis in your power either to Kill or Cure.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>In a sad and sorrowful Ditty,</l>
+               <l>with Sighs and Tears I have sent forth my moan▪</l>
+               <l>Yet my fair one affo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds me no pitty,</l>
+               <l>but lets me languish to Death all alone:</l>
+               <l>This very Day, now I must away,</l>
+               <l>Both strength, heart and spirits, with life, does decay</l>
+               <l>More then untrue, <hi>Silvia</hi> was you,</l>
+               <l>And therefore farewel, for I bid the World Adieu.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed,</p>
+            <closer>
+               <signed>R. P.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>Printed for <hi>J▪ Deacon,</hi> at the <hi>Angel</hi> in <hi>Guiltspur-Street,</hi> without <hi>Newgate.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
